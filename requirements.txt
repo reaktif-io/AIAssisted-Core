@@ -1,0 +1,19 @@
+tensorflow==1.15.2
+regex
+requests
+tqdm
+numpy
+toposort
+
+# Server
+fastapi
+uvicorn
+
+# For Preprocess
+sentencepiece==0.1.83
+ftfy==5.6
+setuptools==41.0.1
+tqdm==4.32.1
+Click==7.0
+# tensorflow-gpu
+# numpy==1.16.4
